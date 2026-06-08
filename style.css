@@ -9,6 +9,7 @@ body {
 }
 
 p {
+    color: yellow;
     font-size: 16px;
 }
 
@@ -31,11 +32,12 @@ a {
 }
 
 .margin {
+    color: yellow;
     margin-bottom: 45px;
 }
 
 .bg-1 {
-    background-color: yellow; /* White */
+    background-color: #ffffff; /* White */
     color: #555555;
 }
 
@@ -54,8 +56,8 @@ a {
 }
 
 .bg-3 {
-    background-color: yellow; /* Black */
-    color: purple;
+    background-color: #000000; /* Black */
+    color: #ffffff;
 }
 
 .bg-4 {
